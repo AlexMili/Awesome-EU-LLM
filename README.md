@@ -60,6 +60,7 @@ A router sends your request to one of several underlying providers. Your soverei
 | [Cortecs](https://cortecs.ai/) | 🇦🇹 AT | 🟢 SOV | Routing hosted on OVH. Some selectable models run on US clouds (EU regions). | [Verified](https://cortecs.ai/dpa) |
 | [Melious AI](https://melious.ai/) | 🇩🇪 DE | 🟢 SOV | 12 EU inference providers, EU hosting. | [Verified](https://melious.ai/legal/subprocessors) |
 | [EUrouter](https://www.eurouter.ai/) | 🇳🇱 NL | 🟡 C-EU | Hosted on Scaleway. AWS and Microsoft selectable as model providers. | [Verified](https://www.eurouter.ai/dpa) |
+| [Standard Compute](https://standardcompute.com/) | 🇳🇴 NO | 🟡 C-EU | An opt-in Europe rule per company, team or key sends every request, including retries and fallbacks, only to approved European inference endpoints; refused before sending if none qualifies. EU gateway on Google Cloud (US) in Finland; account data on Supabase (AWS) in Frankfurt. | [Verified](https://standardcompute.com/sub-processors) |
 
 ## EU-hosted, non-EU companies
 
